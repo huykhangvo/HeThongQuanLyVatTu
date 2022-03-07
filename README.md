@@ -1,6 +1,6 @@
 # QUẢN LÝ VẬT TƯ - VLUTE
 
-[![Build Status](https://travis-ci.org/meesudzu/trac-nghiem-online.svg?branch=master)](https://travis-ci.org/meesudzu/trac-nghiem-online)
+[![Build Status](https://github.com/huykhangvo/HeThongQuanLyVatTu)](https://github.com/huykhangvo/HeThongQuanLyVatTu)
 
 Mục tiêu: QUẢN LÝ VẬT TƯ - THIẾT BỊ NỘI THẤT CỦA ĐƠN VỊ TỔ CHỨC
 
