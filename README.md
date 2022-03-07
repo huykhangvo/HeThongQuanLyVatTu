@@ -57,4 +57,5 @@ Xem thêm tại [Chi tiết phiên bản cập nhật](phiencapnhat.md)
 ## Lưu ý
 
 Trên GitHub chỉ lưu từ v0.1 trở đi
+
 v0.1 (07/03/2022)
