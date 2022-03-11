@@ -52,7 +52,7 @@ Xem thêm tại [Chi tiết phiên bản cập nhật](phiencapnhat.md)
 
 ## Ảnh Demo (Chụp Từ v0.1)
 
-
+![](https://i.imgur.com/Sbf3eQd.gif)
 
 ## Lưu ý
 
